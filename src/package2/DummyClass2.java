@@ -11,7 +11,7 @@ public class DummyClass2 {
     }
     
     public int add(int num1, int num2) {
-        return num1 + num2;
+        return num1 + num2 + 3;
     }
     
     public String reverseString(String str) {
